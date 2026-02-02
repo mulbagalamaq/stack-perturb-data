@@ -60,7 +60,7 @@ embeddings, indices = model.get_latent_representation(
 
 ## Acknowledgements
 
-This work uses the **Stack** foundation model and **Perturb-Sapiens** dataset developed by [Arc Institute](https://arcinstitute.org/). thanks the Arc Institute team for making these resources publicly available for research.
+This work uses the **Stack** foundation model and **Perturb-Sapiens** dataset developed by [Arc Institute](https://arcinstitute.org/). Thank you to the Arc Institute team for making these resources publicly available for research.
 
 ## References
 
